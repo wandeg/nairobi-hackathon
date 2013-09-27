@@ -1,7 +1,7 @@
 AfricaHackTrip: Nairobi Hackathon
 ============================
 
-Welcome to the Nairobi Hackathon! If you want to edit a proposal for you project, [edit this page](https://github.com/AfricaHackTrip/nairobi-hackathon/edit/master/README.md). You must be signed in to your [github account](https://github.com/signup/free) (free) to edit this page.
+Welcome to the Nairobi Hackathon! If you want to edit a proposal for you project, [fork & edit this page](https://github.com/AfricaHackTrip/nairobi-hackathon/edit/master/README.md). You must be signed in to your [github account](https://github.com/signup/free) (free) to edit this page.
 
 Agenda
 -----------
