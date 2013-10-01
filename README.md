@@ -29,3 +29,9 @@ _description to be added_
 * **owners**: Vicky
 * **participants**: _add your handle here_
 * **repository**: _add repository URL here_
+
+### Tweet-miner
+
+* **owners**: @_wandeg
+* **participants**: @trustonaliende, @otienofred, @calymailu
+* **repository**: https://github.com/wandeg/tweet-miner
